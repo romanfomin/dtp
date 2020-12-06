@@ -1,0 +1,3559 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dtpCardList>
+    <countCard>405</countCard>
+    <dateName></dateName>
+    <pog>14</pog>
+    <pokName>ДТП - всего</pokName>
+    <posl>2.8</posl>
+    <ran>490</ran>
+    <regName>Российская Федерация, г. Санкт-Петербург</regName>
+    <tab>
+        <DTPV>Опрокидывание</DTPV>
+        <date>30.06.2020</date>
+        <district>Красносельский район</district>
+        <EMTP_NUMBER>400050744</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.153458</COORD_L>
+            <COORD_W>59.79997</COORD_W>
+            <dor></dor>
+            <dor_k>1</dor_k>
+            <dor_z>Федеральная (дорога федерального значения)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house></house>
+            <k_ul>Вне НП</k_ul>
+            <km>60</km>
+            <m>800</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Отсутствие в непосредственной близости объектов УДС и объектов притяжения</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>950</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Перегон (нет объектов на месте ДТП)</sdor>
+            <spog>Пасмурно</spog>
+            <street></street>
+            <ts_info>
+                <color>Белый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2011</g_v>
+                <m_pov></m_pov>
+                <m_ts>Ducato</m_ts>
+                <marka_ts>FIAT</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>Иное расположение рулевого управления</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Фургоны</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Пассажир</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST></v_ST>
+                </ts_uch>
+                <ts_uch>
+                    <ALCO>00</ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нарушение правил расположения ТС на проезжей части</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся) на стационарном лечении</s_T>
+                    <v_ST>9</v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>1</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220658756</kartId>
+        <POG>0</POG>
+        <RAN>2</RAN>
+        <rowNum>1</rowNum>
+        <time>11:30</time>
+    </tab>
+    <tab>
+        <DTPV>Наезд на пешехода</DTPV>
+        <date>30.06.2020</date>
+        <district>Выборгский район</district>
+        <EMTP_NUMBER>400051103</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Режим движения не изменялся</CHOM>
+            <COORD_L>30.333756</COORD_L>
+            <COORD_W>60.002596</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>10</house>
+            <k_ul>Магистральные улицы районного значения</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Объект торговли, общественного питания на автодороге вне НП</OBJ_DTP>
+            <OBJ_DTP>Нерегулируемый пешеходный переход</OBJ_DTP>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>830</s_dtp>
+            <s_pch>Мокрое</s_pch>
+            <sdor>Тротуар, пешеходная дорожка</sdor>
+            <spog>Пасмурно</spog>
+            <street>пр-кт 2-й Муринский</street>
+            <ts_info>
+                <color>Серый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2018</g_v>
+                <m_pov></m_pov>
+                <m_ts>Kuga</m_ts>
+                <marka_ts>FORD</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Скрылось и установлено в срок от 3 до 10 суток</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Несоблюдение бокового интервала</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Оставление места ДТП</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Скрылся, впоследствии разыскан (установлен)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>16</v_ST>
+                </ts_uch>
+            </ts_info>
+            <uchInfo>
+                <ALCO></ALCO>
+                <k_UCH>Пешеход</k_UCH>
+                <NPDD>Нет нарушений</NPDD>
+                <n_UCH>4</n_UCH>
+                <POL>Мужской</POL>
+                <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                <s_SM>Нет (не скрывался)</s_SM>
+                <s_T>Не пострадал</s_T>
+                <v_ST></v_ST>
+            </uchInfo>
+            <uchInfo>
+                <ALCO></ALCO>
+                <k_UCH>Пешеход</k_UCH>
+                <NPDD>Нет нарушений</NPDD>
+                <n_UCH>3</n_UCH>
+                <POL>Мужской</POL>
+                <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                <s_SM>Нет (не скрывался)</s_SM>
+                <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                <v_ST></v_ST>
+            </uchInfo>
+            <uchInfo>
+                <ALCO></ALCO>
+                <k_UCH>Пешеход</k_UCH>
+                <NPDD>Нет нарушений</NPDD>
+                <n_UCH>2</n_UCH>
+                <POL>Мужской</POL>
+                <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                <s_SM>Нет (не скрывался)</s_SM>
+                <s_T>Не пострадал</s_T>
+                <v_ST></v_ST>
+            </uchInfo>
+        </infoDtp>
+        <KTS>1</KTS>
+        <KUCH>4</KUCH>
+        <kartId>220779086</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>2</rowNum>
+        <time>19:20</time>
+    </tab>
+    <tab>
+        <DTPV>Столкновение</DTPV>
+        <date>30.06.2020</date>
+        <district>Центральный район</district>
+        <EMTP_NUMBER>400050679</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.345429</COORD_L>
+            <COORD_W>59.916473</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>87</house>
+            <k_ul>Магистральные улицы районного значения</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Регулируемый перекрёсток</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>070</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Нерегулируемый пешеходный переход</sdor>
+            <spog>Ясно</spog>
+            <street>наб Обводного канала</street>
+            <ts_info>
+                <color>Иные цвета</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2018</g_v>
+                <m_pov></m_pov>
+                <m_ts>Eclipse</m_ts>
+                <marka_ts>MITSUBISHI</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>Полноприводные</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>С-класс (малый средний, компактный) до 4,3 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>25</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Белый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2001</g_v>
+                <m_pov></m_pov>
+                <m_ts>Corolla</m_ts>
+                <marka_ts>TOYOTA</marka_ts>
+                <n_ts>2</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Прочие легковые автомобили</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Неправильный выбор дистанции</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Несоблюдение требований ОСАГО</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST>18</v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>2</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220774648</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>3</rowNum>
+        <time>07:00</time>
+    </tab>
+    <tab>
+        <DTPV>Столкновение</DTPV>
+        <date>30.06.2020</date>
+        <district>Василеостровский район</district>
+        <EMTP_NUMBER>400050933</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Режим движения не изменялся</CHOM>
+            <COORD_L>30.219483</COORD_L>
+            <COORD_W>59.941858</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>11</house>
+            <k_ul>Магистральные улицы районного значения</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>060</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Внутридворовая территория</sdor>
+            <spog>Ясно</spog>
+            <street>ул Нахимова</street>
+            <ts_info>
+                <color>Серый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2019</g_v>
+                <m_pov></m_pov>
+                <m_ts>Tucson</m_ts>
+                <marka_ts>HYUNDAI</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>Полноприводные</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Несоблюдение очередности проезда перекрестков</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>5</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Черный</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2013</g_v>
+                <m_pov></m_pov>
+                <m_ts>Duster</m_ts>
+                <marka_ts>RENAULT</marka_ts>
+                <n_ts>2</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>Не заполнено</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>С-класс (малый средний, компактный) до 4,3 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST>9</v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>2</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220674860</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>4</rowNum>
+        <time>17:25</time>
+    </tab>
+    <tab>
+        <DTPV>Наезд на велосипедиста</DTPV>
+        <date>30.06.2020</date>
+        <district>Адмиралтейский район</district>
+        <EMTP_NUMBER>400050682</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Режим движения не изменялся</CHOM>
+            <COORD_L>30.295991</COORD_L>
+            <COORD_W>59.918629</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>22</house>
+            <k_ul>Магистральные улицы районного значения</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Неправильное применение, плохая видимость дорожных знаков</ndu>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>750</s_dtp>
+            <s_pch>Мокрое</s_pch>
+            <sdor>Перегон (нет объектов на месте ДТП)</sdor>
+            <sdor>Нерегулируемый пешеходный переход</sdor>
+            <spog>Пасмурно</spog>
+            <street>пр-кт Лермонтовский</street>
+            <ts_info>
+                <color>Серый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2016</g_v>
+                <m_pov></m_pov>
+                <m_ts>Polo</m_ts>
+                <marka_ts>VOLKSWAGEN</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>С-класс (малый средний, компактный) до 4,3 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>16</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Черный</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v></g_v>
+                <m_pov></m_pov>
+                <m_ts>Прочие модели BM</m_ts>
+                <marka_ts>BM</marka_ts>
+                <n_ts>2</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>Иное расположение рулевого управления</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Велосипеды</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Велосипедист</k_UCH>
+                    <NPDD>Пересечение велосипедистом проезжей части по пешеходному переходу</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся) на стационарном лечении</s_T>
+                    <v_ST>99</v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>2</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220660776</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>5</rowNum>
+        <time>09:15</time>
+    </tab>
+    <tab>
+        <DTPV>Наезд на пешехода</DTPV>
+        <date>30.06.2020</date>
+        <district>Приморский район</district>
+        <EMTP_NUMBER>400050766</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Режим движения не изменялся</CHOM>
+            <COORD_L>30.226082</COORD_L>
+            <COORD_W>60.007938</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>37 двор</house>
+            <k_ul>Улицы и дороги местного значения научно-производственных промышленных и коммунально-складских районов</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>800</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Внутридворовая территория</sdor>
+            <spog>Пасмурно</spog>
+            <street>ул Яхтенная</street>
+            <ts_info>
+                <color>Белый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2015</g_v>
+                <m_pov></m_pov>
+                <m_ts>Octavia</m_ts>
+                <marka_ts>SKODA</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Несоблюдение бокового интервала</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>12</v_ST>
+                </ts_uch>
+            </ts_info>
+            <uchInfo>
+                <ALCO></ALCO>
+                <k_UCH>Пешеход</k_UCH>
+                <NPDD>Нет нарушений</NPDD>
+                <n_UCH>1</n_UCH>
+                <POL>Мужской</POL>
+                <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                <s_SM>Нет (не скрывался)</s_SM>
+                <s_T>Раненый, находящийся (находившийся) на стационарном лечении</s_T>
+                <v_ST></v_ST>
+            </uchInfo>
+        </infoDtp>
+        <KTS>1</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220660459</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>6</rowNum>
+        <time>14:25</time>
+    </tab>
+    <tab>
+        <DTPV>Столкновение</DTPV>
+        <date>30.06.2020</date>
+        <district>Петроградский район</district>
+        <EMTP_NUMBER>400050676</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.334797</COORD_L>
+            <COORD_W>59.960156</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>22</house>
+            <k_ul>Магистральные улицы районного значения</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Дефекты покрытия</ndu>
+            <OBJ_DTP>Отсутствие в непосредственной близости объектов УДС и объектов притяжения</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>070</s_dtp>
+            <s_pch>Мокрое</s_pch>
+            <sdor>Нерегулируемый пешеходный переход</sdor>
+            <spog>Пасмурно</spog>
+            <street>наб Петроградская</street>
+            <ts_info>
+                <color>Синий</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2017</g_v>
+                <m_pov></m_pov>
+                <m_ts>Qashgai</m_ts>
+                <marka_ts>NISSAN</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Юридические лица, являющиеся коммерческими организациями</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Женский</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>7</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Белый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2019</g_v>
+                <m_pov></m_pov>
+                <m_ts>Polo</m_ts>
+                <marka_ts>VOLKSWAGEN</marka_ts>
+                <n_ts>2</n_ts>
+                <o_pf>Юридические лица, являющиеся коммерческими организациями</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>А-класс (особо малый) до 3,5 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Неправильный выбор дистанции</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>7</v_ST>
+                </ts_uch>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Пассажир</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>3</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся) на стационарном лечении</s_T>
+                    <v_ST></v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>2</KTS>
+        <KUCH>3</KUCH>
+        <kartId>220660374</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>7</rowNum>
+        <time>08:20</time>
+    </tab>
+    <tab>
+        <DTPV>Опрокидывание</DTPV>
+        <date>30.06.2020</date>
+        <district>Василеостровский район</district>
+        <EMTP_NUMBER>400050821</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Режим движения не изменялся</CHOM>
+            <COORD_L>30.232669</COORD_L>
+            <COORD_W>59.940681</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сужение проезжей части припаркованным транспортом</factor>
+            <house>35к1</house>
+            <k_ul>Магистральные улицы районного значения</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>950</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Перегон (нет объектов на месте ДТП)</sdor>
+            <spog>Пасмурно</spog>
+            <street>ул Наличная</street>
+            <ts_info>
+                <color>Черный</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2007</g_v>
+                <m_pov></m_pov>
+                <m_ts>VTX</m_ts>
+                <marka_ts>HONDA</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>Иное расположение рулевого управления</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Мотоциклы</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нарушение правил расположения ТС на проезжей части</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST>7</v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>1</KTS>
+        <KUCH>1</KUCH>
+        <kartId>220660357</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>8</rowNum>
+        <time>17:45</time>
+    </tab>
+    <tab>
+        <DTPV>Наезд на стоящее ТС</DTPV>
+        <date>30.06.2020</date>
+        <district>Красносельский район</district>
+        <EMTP_NUMBER>400050930</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.17513</COORD_L>
+            <COORD_W>59.804309</COORD_W>
+            <dor></dor>
+            <dor_k>1</dor_k>
+            <dor_z>Федеральная (дорога федерального значения)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house></house>
+            <k_ul>Вне НП</k_ul>
+            <km>78</km>
+            <m>800</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Отсутствие в непосредственной близости объектов УДС и объектов притяжения</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>920</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Перегон (нет объектов на месте ДТП)</sdor>
+            <spog>Ясно</spog>
+            <street></street>
+            <ts_info>
+                <color>Зеленый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>1997</g_v>
+                <m_pov></m_pov>
+                <m_ts>Corsa</m_ts>
+                <marka_ts>OPEL</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO>00</ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нарушение правил расположения ТС на проезжей части</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся) на стационарном лечении</s_T>
+                    <v_ST>19</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Зеленый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2006</g_v>
+                <m_pov></m_pov>
+                <m_ts>ВАЗ 2113 и модификации</m_ts>
+                <marka_ts>ВАЗ</marka_ts>
+                <n_ts>2</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>23</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Белый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2015</g_v>
+                <m_pov></m_pov>
+                <m_ts>Priora</m_ts>
+                <marka_ts>ВАЗ</marka_ts>
+                <n_ts>3</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>3</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>12</v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>3</KTS>
+        <KUCH>3</KUCH>
+        <kartId>220660338</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>9</rowNum>
+        <time>20:20</time>
+    </tab>
+    <tab>
+        <DTPV>Наезд на пешехода</DTPV>
+        <date>30.06.2020</date>
+        <district>Центральный район</district>
+        <EMTP_NUMBER>400050908</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.391402</COORD_L>
+            <COORD_W>59.944227</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>3</house>
+            <k_ul>Магистральные дороги</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Неправильное применение, плохая видимость дорожных знаков</ndu>
+            <OBJ_DTP>Школа либо иная детская (в т.ч. дошкольная) организация</OBJ_DTP>
+            <OBJ_DTP>Административные здания</OBJ_DTP>
+            <OBJ_DTP>Зоны отдыха</OBJ_DTP>
+            <OBJ_DTP>Регулируемый пешеходный переход</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>820</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Перегон (нет объектов на месте ДТП)</sdor>
+            <spog>Ясно</spog>
+            <street>ул Бонч-Бруевича</street>
+            <ts_info>
+                <color>Белый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2014</g_v>
+                <m_pov></m_pov>
+                <m_ts>Juke</m_ts>
+                <marka_ts>NISSAN</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>С-класс (малый средний, компактный) до 4,3 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>18</v_ST>
+                </ts_uch>
+            </ts_info>
+            <uchInfo>
+                <ALCO></ALCO>
+                <k_UCH>Пешеход</k_UCH>
+                <NPDD>Переход через проезжую часть вне пешеходного перехода в зоне его видимости либо при наличии в непосредственной близости подземного (надземного) пешеходного перехода</NPDD>
+                <n_UCH>2</n_UCH>
+                <POL>Мужской</POL>
+                <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                <s_SM>Нет (не скрывался)</s_SM>
+                <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                <v_ST></v_ST>
+            </uchInfo>
+        </infoDtp>
+        <KTS>1</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220659031</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>10</rowNum>
+        <time>18:45</time>
+    </tab>
+    <tab>
+        <DTPV>Столкновение</DTPV>
+        <date>30.06.2020</date>
+        <district>Невский район</district>
+        <EMTP_NUMBER>400050842</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.435981</COORD_L>
+            <COORD_W>59.874207</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>75</house>
+            <k_ul>Иные места</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>330</s_dtp>
+            <s_pch>Мокрое</s_pch>
+            <sdor>Перегон (нет объектов на месте ДТП)</sdor>
+            <spog>Пасмурно</spog>
+            <street>ул Седова</street>
+            <ts_info>
+                <color>Черный</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2013</g_v>
+                <m_pov></m_pov>
+                <m_ts>Прочие модели BMW</m_ts>
+                <marka_ts>BMW</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Несоблюдение очередности проезда перекрестков</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Женский</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST>7</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Иные цвета</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2011</g_v>
+                <m_pov></m_pov>
+                <m_ts>Solaris</m_ts>
+                <marka_ts>HYUNDAI</marka_ts>
+                <n_ts>2</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Женский</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST>7</v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>2</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220658993</kartId>
+        <POG>0</POG>
+        <RAN>2</RAN>
+        <rowNum>11</rowNum>
+        <time>17:20</time>
+    </tab>
+    <tab>
+        <DTPV>Падение пассажира</DTPV>
+        <date>30.06.2020</date>
+        <district>Калининский район</district>
+        <EMTP_NUMBER>400050816</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.356448</COORD_L>
+            <COORD_W>59.953855</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>3</house>
+            <k_ul>Магистральные улицы районного значения</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Крупный торговый объект (являющийся объектом массового тяготения пешеходов и (или) транспорта)</OBJ_DTP>
+            <OBJ_DTP>Аэропорт, ж/д вокзал (ж/д станция), речной или морской порт (пристань)</OBJ_DTP>
+            <OBJ_DTP>Зоны отдыха</OBJ_DTP>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>960</s_dtp>
+            <s_pch>Мокрое</s_pch>
+            <sdor>Остановка общественного транспорта</sdor>
+            <spog>Пасмурно</spog>
+            <street>пл Ленина</street>
+            <ts_info>
+                <color>Иные цвета</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2010</g_v>
+                <m_pov></m_pov>
+                <m_ts>5299-30-32 низкопольный</m_ts>
+                <marka_ts>НефАЗ</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Юридические лица, являющиеся некоммерческими организациями</o_pf>
+                <r_rul>С задним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Одноэтажные длиной от 8 до 12 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>16</v_ST>
+                </ts_uch>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Пассажир</k_UCH>
+                    <NPDD>Нарушение правил пользования общественным транспортом</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Женский</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST></v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>1</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220658891</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>12</rowNum>
+        <time>16:53</time>
+    </tab>
+    <tab>
+        <DTPV>Столкновение</DTPV>
+        <date>30.06.2020</date>
+        <district>Невский район</district>
+        <EMTP_NUMBER>400050834</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.437601</COORD_L>
+            <COORD_W>59.894281</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>86</house>
+            <k_ul>Улицы и дороги местного значения в жилой застройке</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Отсутствие, плохая различимость горизонтальной разметки проезжей части</ndu>
+            <OBJ_DTP>Производственное предприятие</OBJ_DTP>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>140</s_dtp>
+            <s_pch>Мокрое</s_pch>
+            <sdor>Перегон (нет объектов на месте ДТП)</sdor>
+            <spog>Пасмурно</spog>
+            <street>пр-кт Обуховской Обороны</street>
+            <ts_info>
+                <color>Желтый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2020</g_v>
+                <m_pov></m_pov>
+                <m_ts>Прочие модели Kia</m_ts>
+                <marka_ts>KIA</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нарушение правил перестроения</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>30</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Черный</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2011</g_v>
+                <m_pov></m_pov>
+                <m_ts>CRX</m_ts>
+                <marka_ts>HONDA</marka_ts>
+                <n_ts>2</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>Иное расположение рулевого управления</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Мотоциклы</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST>4</v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>2</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220658845</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>13</rowNum>
+        <time>16:40</time>
+    </tab>
+    <tab>
+        <DTPV>Наезд на пешехода</DTPV>
+        <date>30.06.2020</date>
+        <district>Василеостровский район</district>
+        <EMTP_NUMBER>400050673</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Режим движения не изменялся</CHOM>
+            <COORD_L>30.263439</COORD_L>
+            <COORD_W>59.941379</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>42</house>
+            <k_ul>Магистральные дороги</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>820</s_dtp>
+            <s_pch>Мокрое</s_pch>
+            <sdor>Перегон (нет объектов на месте ДТП)</sdor>
+            <spog>Пасмурно</spog>
+            <street>линия 17-я В.О.</street>
+            <ts_info>
+                <color>Красный</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2007</g_v>
+                <m_pov></m_pov>
+                <m_ts>Mazda 3</m_ts>
+                <marka_ts>MAZDA</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Прочие легковые автомобили</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>11</v_ST>
+                </ts_uch>
+            </ts_info>
+            <uchInfo>
+                <ALCO></ALCO>
+                <k_UCH>Пешеход</k_UCH>
+                <NPDD>Переход через проезжую часть вне пешеходного перехода в зоне его видимости либо при наличии в непосредственной близости подземного (надземного) пешеходного перехода</NPDD>
+                <n_UCH>1</n_UCH>
+                <POL>Мужской</POL>
+                <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                <s_SM>Нет (не скрывался)</s_SM>
+                <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                <v_ST></v_ST>
+            </uchInfo>
+        </infoDtp>
+        <KTS>1</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220658661</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>14</rowNum>
+        <time>07:25</time>
+    </tab>
+    <tab>
+        <DTPV>Наезд на велосипедиста</DTPV>
+        <date>30.06.2020</date>
+        <district>Выборгский район</district>
+        <EMTP_NUMBER>400050938</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.315206</COORD_L>
+            <COORD_W>60.043654</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>48</house>
+            <k_ul>Магистральные улицы районного значения</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Отсутствие, плохая различимость горизонтальной разметки проезжей части</ndu>
+            <ndu>Отсутствие пешеходных ограждений в необходимых местах</ndu>
+            <ndu>Неправильное применение, плохая видимость дорожных знаков</ndu>
+            <OBJ_DTP>Крупный торговый объект (являющийся объектом массового тяготения пешеходов и (или) транспорта)</OBJ_DTP>
+            <OBJ_DTP>Регулируемый пешеходный переход</OBJ_DTP>
+            <OBJ_DTP>Регулируемый перекрёсток</OBJ_DTP>
+            <OBJ_DTP>Жилые дома индивидуальной застройки</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>720</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Регулируемый пешеходный переход</sdor>
+            <spog>Пасмурно</spog>
+            <street>ш Выборгское</street>
+            <ts_info>
+                <color>Черный</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v></g_v>
+                <m_pov></m_pov>
+                <m_ts>Прочие марки и модели ТС</m_ts>
+                <marka_ts>Прочие марки ТС</marka_ts>
+                <n_ts>2</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>Иное расположение рулевого управления</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Велосипеды</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Велосипедист</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Пересечение велосипедистом проезжей части по пешеходному переходу</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся) на стационарном лечении</s_T>
+                    <v_ST>99</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Иные цвета</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2016</g_v>
+                <m_pov></m_pov>
+                <m_ts>Terrano</m_ts>
+                <marka_ts>NISSAN</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>С-класс (малый средний, компактный) до 4,3 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Несоблюдение очередности проезда перекрестков</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Несоблюдение требований ОСАГО</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>9</v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>2</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220658170</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>15</rowNum>
+        <time>21:15</time>
+    </tab>
+    <tab>
+        <DTPV>Столкновение</DTPV>
+        <date>30.06.2020</date>
+        <district>Выборгский район</district>
+        <EMTP_NUMBER>400050823</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.273836</COORD_L>
+            <COORD_W>60.099077</COORD_W>
+            <dor></dor>
+            <dor_k>1</dor_k>
+            <dor_z>Федеральная (дорога федерального значения)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house></house>
+            <k_ul></k_ul>
+            <km>123</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Крупный торговый объект (являющийся объектом массового тяготения пешеходов и (или) транспорта)</OBJ_DTP>
+            <OBJ_DTP>Кладбище</OBJ_DTP>
+            <OBJ_DTP>Эстакада, путепровод</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>200</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Перегон (нет объектов на месте ДТП)</sdor>
+            <spog>Пасмурно</spog>
+            <street></street>
+            <ts_info>
+                <color>Синий</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2012</g_v>
+                <m_pov></m_pov>
+                <m_ts>2310, 23109 и модификации</m_ts>
+                <marka_ts>ГАЗ</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С задним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Бортовые грузовые автомобили</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся) на стационарном лечении</s_T>
+                    <v_ST>10</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Белый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2015</g_v>
+                <m_pov></m_pov>
+                <m_ts>Actros</m_ts>
+                <marka_ts>MERCEDES</marka_ts>
+                <n_ts>2</n_ts>
+                <o_pf>Юридические лица, являющиеся коммерческими организациями</o_pf>
+                <r_rul>С задним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Седельные тягачи</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Выезд на полосу встречного движения</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>16</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Иные цвета</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2011</g_v>
+                <m_pov></m_pov>
+                <m_ts></m_ts>
+                <marka_ts></marka_ts>
+                <n_ts>3</n_ts>
+                <o_pf>Юридические лица, являющиеся коммерческими организациями</o_pf>
+                <r_rul></r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Полуприцепы-самосвалы</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+            </ts_info>
+        </infoDtp>
+        <KTS>3</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220658126</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>16</rowNum>
+        <time>16:15</time>
+    </tab>
+    <tab>
+        <DTPV>Падение пассажира</DTPV>
+        <date>30.06.2020</date>
+        <district>Выборгский район</district>
+        <EMTP_NUMBER>400050769</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.345912</COORD_L>
+            <COORD_W>59.985502</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>11 кор 1 по ул. Парг</house>
+            <k_ul>Магистральные улицы районного значения</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Неправильное применение, плохая видимость дорожных знаков</ndu>
+            <OBJ_DTP>Остановка общественного транспорта</OBJ_DTP>
+            <OBJ_DTP>Школа либо иная детская (в т.ч. дошкольная) организация</OBJ_DTP>
+            <OBJ_DTP>Производственное предприятие</OBJ_DTP>
+            <OBJ_DTP>Регулируемый пешеходный переход</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>990</s_dtp>
+            <s_pch>Мокрое</s_pch>
+            <sdor>Перегон (нет объектов на месте ДТП)</sdor>
+            <spog>Дождь</spog>
+            <street>ул Кантемировская</street>
+            <ts_info>
+                <color>Белый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2012</g_v>
+                <m_pov></m_pov>
+                <m_ts>3204</m_ts>
+                <marka_ts>ПАЗ</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Юридические лица, являющиеся коммерческими организациями</o_pf>
+                <r_rul>С задним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Одноэтажные длиной от 5 до 8 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Пассажир</k_UCH>
+                    <NPDD>Нарушение правил пользования общественным транспортом</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся) на стационарном лечении</s_T>
+                    <v_ST></v_ST>
+                </ts_uch>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>32</v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>1</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220658113</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>17</rowNum>
+        <time>15:15</time>
+    </tab>
+    <tab>
+        <DTPV>Наезд на внезапно возникшее препятствие</DTPV>
+        <date>30.06.2020</date>
+        <district>Выборгский район</district>
+        <EMTP_NUMBER>400050762</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение полностью перекрыто</CHOM>
+            <COORD_L>30.34868</COORD_L>
+            <COORD_W>60.002012</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Оказание влияния на движение транспортного потока или отдельного транспортного средства, наличия или внезапного возникновения на проезжей части посторонних предметов (упавшее дерево или мачта освещения, осыпь камней, селевой вынос, груз с другого транспортного сред-ства или конструктивный элемент другого транспортного средства и т.д.)</factor>
+            <house>18</house>
+            <k_ul>Магистральные улицы районного значения</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Школа либо иная детская (в т.ч. дошкольная) организация</OBJ_DTP>
+            <OBJ_DTP>Иная образовательная организация</OBJ_DTP>
+            <OBJ_DTP>Зоны отдыха</OBJ_DTP>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>990</s_dtp>
+            <s_pch>Мокрое</s_pch>
+            <sdor>Перегон (нет объектов на месте ДТП)</sdor>
+            <spog>Пасмурно</spog>
+            <street>пр-кт Институтский</street>
+            <ts_info>
+                <color>Иные цвета</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2017</g_v>
+                <m_pov></m_pov>
+                <m_ts>Sandero</m_ts>
+                <marka_ts>RENAULT</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>С-класс (малый средний, компактный) до 4,3 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Женский</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST>14</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Черный</color>
+                <f_sob>Федеральная собственность</f_sob>
+                <g_v>2016</g_v>
+                <m_pov></m_pov>
+                <m_ts>Vesta (Веста)</m_ts>
+                <marka_ts>ВАЗ</marka_ts>
+                <n_ts>2</n_ts>
+                <o_pf>Юридические лица, являющиеся некоммерческими организациями</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Пассажир</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>4</n_UCH>
+                    <POL>Женский</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся) на стационарном лечении</s_T>
+                    <v_ST></v_ST>
+                </ts_uch>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся) на стационарном лечении</s_T>
+                    <v_ST>12</v_ST>
+                </ts_uch>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Пассажир</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>3</n_UCH>
+                    <POL>Женский</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся) на стационарном лечении</s_T>
+                    <v_ST></v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>2</KTS>
+        <KUCH>4</KUCH>
+        <kartId>220658073</kartId>
+        <POG>0</POG>
+        <RAN>4</RAN>
+        <rowNum>18</rowNum>
+        <time>15:15</time>
+    </tab>
+    <tab>
+        <DTPV>Наезд на пешехода</DTPV>
+        <date>29.06.2020</date>
+        <district>Красногвардейский район</district>
+        <EMTP_NUMBER>400050512</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.409598</COORD_L>
+            <COORD_W>59.947629</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>7</house>
+            <k_ul>Улицы и дороги местного значения в жилой застройке</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Нерегулируемый перекрёсток</OBJ_DTP>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>700</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Нерегулируемый пешеходный переход</sdor>
+            <spog>Ясно</spog>
+            <street>пр-кт Большеохтинский</street>
+            <ts_info>
+                <color>Черный</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>1997</g_v>
+                <m_pov></m_pov>
+                <m_ts>Прочие модели Yamaha</m_ts>
+                <marka_ts>YAMAHA</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>Иное расположение рулевого управления</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Мотоциклы</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нарушение правил проезда пешеходного перехода</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>24</v_ST>
+                </ts_uch>
+            </ts_info>
+            <uchInfo>
+                <ALCO></ALCO>
+                <k_UCH>Пешеход</k_UCH>
+                <NPDD>Нет нарушений</NPDD>
+                <n_UCH>2</n_UCH>
+                <POL>Женский</POL>
+                <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                <s_SM>Нет (не скрывался)</s_SM>
+                <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                <v_ST></v_ST>
+            </uchInfo>
+        </infoDtp>
+        <KTS>1</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220858926</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>19</rowNum>
+        <time>12:40</time>
+    </tab>
+    <tab>
+        <DTPV>Столкновение</DTPV>
+        <date>29.06.2020</date>
+        <district>Кировский район</district>
+        <EMTP_NUMBER>400050439</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.270832</COORD_L>
+            <COORD_W>59.851799</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>129</house>
+            <k_ul>Магистральные улицы общегородского значения</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Остановка общественного транспорта</OBJ_DTP>
+            <OBJ_DTP>Крупный торговый объект (являющийся объектом массового тяготения пешеходов и (или) транспорта)</OBJ_DTP>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>030</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Перегон (нет объектов на месте ДТП)</sdor>
+            <spog>Ясно</spog>
+            <street>пр-кт Ленинский</street>
+            <ts_info>
+                <color>Белый</color>
+                <f_sob>Муниципальная собственность</f_sob>
+                <g_v>2019</g_v>
+                <m_pov></m_pov>
+                <m_ts>Прочие марки автобусов</m_ts>
+                <marka_ts>Прочие марки автобусов</marka_ts>
+                <n_ts>2</n_ts>
+                <o_pf>Юридические лица, являющиеся коммерческими организациями</o_pf>
+                <r_rul>Полноприводные</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Одноэтажные, сочлененные длиной более 12 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Пассажир</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>4</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST></v_ST>
+                </ts_uch>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>17</v_ST>
+                </ts_uch>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Пассажир</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>5</n_UCH>
+                    <POL>Женский</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST></v_ST>
+                </ts_uch>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Пассажир</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>3</n_UCH>
+                    <POL>Женский</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST></v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Белый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2015</g_v>
+                <m_pov></m_pov>
+                <m_ts>Rio</m_ts>
+                <marka_ts>KIA</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>D-класс (средний) до 4,6 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нарушение правил перестроения</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>4</v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>2</KTS>
+        <KUCH>5</KUCH>
+        <kartId>220654463</kartId>
+        <POG>0</POG>
+        <RAN>3</RAN>
+        <rowNum>20</rowNum>
+        <time>11:55</time>
+    </tab>
+    <tab>
+        <DTPV>Наезд на велосипедиста</DTPV>
+        <date>29.06.2020</date>
+        <district>Фрунзенский район</district>
+        <EMTP_NUMBER>400050616</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Режим движения не изменялся</CHOM>
+            <COORD_L>30.383388</COORD_L>
+            <COORD_W>59.835915</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>36</house>
+            <k_ul>Магистральные дороги</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>740</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Нерегулируемый пешеходный переход</sdor>
+            <spog>Ясно</spog>
+            <street>пр-кт Дунайский</street>
+            <ts_info>
+                <color>Черный</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2007</g_v>
+                <m_pov></m_pov>
+                <m_ts>Focus</m_ts>
+                <marka_ts>FORD</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>А-класс (особо малый) до 3,5 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>9</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Красный</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2010</g_v>
+                <m_pov></m_pov>
+                <m_ts>309</m_ts>
+                <marka_ts>PEUGEOT</marka_ts>
+                <n_ts>2</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>А-класс (особо малый) до 3,5 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+            </ts_info>
+            <ts_info>
+                <color>Синий</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2008</g_v>
+                <m_pov></m_pov>
+                <m_ts>Fiesta</m_ts>
+                <marka_ts>FORD</marka_ts>
+                <n_ts>3</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+            </ts_info>
+            <ts_info>
+                <color>Желтый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v></g_v>
+                <m_pov></m_pov>
+                <m_ts></m_ts>
+                <marka_ts></marka_ts>
+                <n_ts>4</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>Иное расположение рулевого управления</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Велосипеды</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Велосипедист</k_UCH>
+                    <NPDD>Пересечение велосипедистом проезжей части по пешеходному переходу</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST>99</v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>4</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220658646</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>21</rowNum>
+        <time>20:54</time>
+    </tab>
+    <tab>
+        <DTPV>Падение пассажира</DTPV>
+        <date>29.06.2020</date>
+        <district>Фрунзенский район</district>
+        <EMTP_NUMBER>400050569</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Режим движения не изменялся</CHOM>
+            <COORD_L>30.383313</COORD_L>
+            <COORD_W>59.872436</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>7 к. 1</house>
+            <k_ul>Магистральные улицы районного значения</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>990</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Перегон (нет объектов на месте ДТП)</sdor>
+            <spog>Ясно</spog>
+            <street>ул Белы Куна</street>
+            <ts_info>
+                <color>Белый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2017</g_v>
+                <m_pov></m_pov>
+                <m_ts>Прочие марки автобусов</m_ts>
+                <marka_ts>Прочие марки автобусов</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Юридические лица, являющиеся некоммерческими организациями</o_pf>
+                <r_rul>С задним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Одноэтажные, сочлененные длиной более 12 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>28</v_ST>
+                </ts_uch>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Пассажир</k_UCH>
+                    <NPDD>Нарушение правил пользования общественным транспортом</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST></v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>1</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220658587</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>22</rowNum>
+        <time>19:00</time>
+    </tab>
+    <tab>
+        <DTPV>Наезд на пешехода</DTPV>
+        <date>29.06.2020</date>
+        <district>Московский район</district>
+        <EMTP_NUMBER>400050565</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.308554</COORD_L>
+            <COORD_W>59.864637</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>21</house>
+            <k_ul>Магистральные улицы районного значения</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>890</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Перегон (нет объектов на месте ДТП)</sdor>
+            <spog>Ясно</spog>
+            <street>ул Бассейная</street>
+            <ts_info>
+                <color>Черный</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v></g_v>
+                <m_pov></m_pov>
+                <m_ts></m_ts>
+                <marka_ts></marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul></r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Персональное электрическое средство передвижения малой мощности</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Пешеход</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST>99</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Коричневый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2017</g_v>
+                <m_pov></m_pov>
+                <m_ts>Octavia</m_ts>
+                <marka_ts>SKODA</marka_ts>
+                <n_ts>2</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>С-класс (малый средний, компактный) до 4,3 м</t_ts>
+                <ts_s>Скрылось и установлено в срок свыше 10 суток</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Несоблюдение очередности проезда перекрестков</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Оставление места ДТП</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Скрылся, впоследствии разыскан (установлен)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>14</v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>2</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220658567</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>23</rowNum>
+        <time>18:10</time>
+    </tab>
+    <tab>
+        <DTPV>Наезд на препятствие</DTPV>
+        <date>29.06.2020</date>
+        <district>Приморский район</district>
+        <EMTP_NUMBER>400050490</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Режим движения не изменялся</CHOM>
+            <COORD_L>30.238087</COORD_L>
+            <COORD_W>60.049353</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>3</house>
+            <k_ul>Магистральные улицы районного значения</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Отсутствие в непосредственной близости объектов УДС и объектов притяжения</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>940</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Иное место</sdor>
+            <spog>Ясно</spog>
+            <street>ул Лётчика Паршина</street>
+            <ts_info>
+                <color>Белый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2001</g_v>
+                <m_pov></m_pov>
+                <m_ts>ZZR</m_ts>
+                <marka_ts>KAWASAKI</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>Иное расположение рулевого управления</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Мотоциклы</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Несоблюдение бокового интервала</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся) на стационарном лечении</s_T>
+                    <v_ST>4</v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>1</KTS>
+        <KUCH>1</KUCH>
+        <kartId>220658477</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>24</rowNum>
+        <time>15:51</time>
+    </tab>
+    <tab>
+        <DTPV>Наезд на пешехода</DTPV>
+        <date>29.06.2020</date>
+        <district>Невский район</district>
+        <EMTP_NUMBER>400050520</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.444757</COORD_L>
+            <COORD_W>59.921565</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Не указано</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house></house>
+            <k_ul>Иные места</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>830</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Внутридворовая территория</sdor>
+            <spog>Ясно</spog>
+            <street></street>
+            <ts_info>
+                <color></color>
+                <f_sob></f_sob>
+                <g_v></g_v>
+                <m_pov></m_pov>
+                <m_ts></m_ts>
+                <marka_ts></marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf></o_pf>
+                <r_rul></r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Скрылось с места ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нарушение правил расположения ТС на проезжей части</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Не определен</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Оставление места ДТП</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Скрылся и впоследствии не установлен</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST></v_ST>
+                </ts_uch>
+            </ts_info>
+            <uchInfo>
+                <ALCO></ALCO>
+                <k_UCH>Пешеход</k_UCH>
+                <NPDD>Нет нарушений</NPDD>
+                <n_UCH>2</n_UCH>
+                <POL>Мужской</POL>
+                <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                <s_SM>Нет (не скрывался)</s_SM>
+                <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                <v_ST></v_ST>
+            </uchInfo>
+        </infoDtp>
+        <KTS>1</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220658446</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>25</rowNum>
+        <time>15:10</time>
+    </tab>
+    <tab>
+        <DTPV>Наезд на пешехода</DTPV>
+        <date>29.06.2020</date>
+        <district>Кировский район</district>
+        <EMTP_NUMBER>400050460</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Режим движения не изменялся</CHOM>
+            <COORD_L>30.239064</COORD_L>
+            <COORD_W>59.840487</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>53</house>
+            <k_ul>Магистральные улицы районного значения</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Отсутствие дорожных знаков в необходимых местах</ndu>
+            <ndu>Отсутствие пешеходных ограждений в необходимых местах</ndu>
+            <OBJ_DTP>Крупный торговый объект (являющийся объектом массового тяготения пешеходов и (или) транспорта)</OBJ_DTP>
+            <OBJ_DTP>Регулируемый перекрёсток</OBJ_DTP>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>820</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Перегон (нет объектов на месте ДТП)</sdor>
+            <spog>Ясно</spog>
+            <street>пр-кт Ветеранов</street>
+            <ts_info>
+                <color>Белый</color>
+                <f_sob>Муниципальная собственность</f_sob>
+                <g_v>2013</g_v>
+                <m_pov></m_pov>
+                <m_ts>Прочие марки и модели ТС</m_ts>
+                <marka_ts>Прочие марки ТС</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Юридические лица, являющиеся коммерческими организациями</o_pf>
+                <r_rul>С задним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Троллейбусы</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>5</v_ST>
+                </ts_uch>
+            </ts_info>
+            <uchInfo>
+                <ALCO></ALCO>
+                <k_UCH>Пешеход</k_UCH>
+                <NPDD>Переход через проезжую часть вне пешеходного перехода в зоне его видимости либо при наличии в непосредственной близости подземного (надземного) пешеходного перехода</NPDD>
+                <n_UCH>2</n_UCH>
+                <POL>Мужской</POL>
+                <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                <s_SM>Нет (не скрывался)</s_SM>
+                <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                <v_ST></v_ST>
+            </uchInfo>
+        </infoDtp>
+        <KTS>1</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220658430</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>26</rowNum>
+        <time>13:45</time>
+    </tab>
+    <tab>
+        <DTPV>Наезд на стоящее ТС</DTPV>
+        <date>29.06.2020</date>
+        <district>Центральный район</district>
+        <EMTP_NUMBER>400050423</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.371135</COORD_L>
+            <COORD_W>59.930899</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>16</house>
+            <k_ul>Улицы и дороги местного значения в жилой застройке</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Административные здания</OBJ_DTP>
+            <OBJ_DTP>Медицинские (лечебные) организации</OBJ_DTP>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>910</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Перегон (нет объектов на месте ДТП)</sdor>
+            <spog>Ясно</spog>
+            <street>ул 2-я Советская</street>
+            <ts_info>
+                <color>Желтый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2017</g_v>
+                <m_pov></m_pov>
+                <m_ts>Caddy</m_ts>
+                <marka_ts>VOLKSWAGEN</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Юридические лица, являющиеся коммерческими организациями</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Фургоны</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нарушение правил остановки и стоянки</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST>12</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Коричневый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2015</g_v>
+                <m_pov></m_pov>
+                <m_ts>Rio</m_ts>
+                <marka_ts>KIA</marka_ts>
+                <n_ts>2</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>С-класс (малый средний, компактный) до 4,3 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Пассажир</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>4</n_UCH>
+                    <POL>Женский</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся) на стационарном лечении</s_T>
+                    <v_ST></v_ST>
+                </ts_uch>
+                <ts_uch>
+                    <ALCO>00</ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Несоблюдение бокового интервала</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>6</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Черный</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2009</g_v>
+                <m_pov></m_pov>
+                <m_ts>Touareg</m_ts>
+                <marka_ts>VOLKSWAGEN</marka_ts>
+                <n_ts>3</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>С-класс (малый средний, компактный) до 4,3 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>3</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>16</v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>3</KTS>
+        <KUCH>4</KUCH>
+        <kartId>220658383</kartId>
+        <POG>0</POG>
+        <RAN>2</RAN>
+        <rowNum>27</rowNum>
+        <time>11:00</time>
+    </tab>
+    <tab>
+        <DTPV>Наезд на пешехода</DTPV>
+        <date>29.06.2020</date>
+        <district>Центральный район</district>
+        <EMTP_NUMBER>400050408</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.337812</COORD_L>
+            <COORD_W>59.933258</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>Невский пр 39</house>
+            <k_ul>Улицы и дороги местного значения в жилой застройке</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Школа либо иная детская (в т.ч. дошкольная) организация</OBJ_DTP>
+            <OBJ_DTP>Административные здания</OBJ_DTP>
+            <OBJ_DTP>Спортивные и развлекательные объекты</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>800</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Перегон (нет объектов на месте ДТП)</sdor>
+            <spog>Ясно</spog>
+            <street>пл Островского</street>
+            <ts_info>
+                <color>Белый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2003</g_v>
+                <m_pov></m_pov>
+                <m_ts>Town Ace</m_ts>
+                <marka_ts>TOYOTA</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Прочие легковые автомобили</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Несоблюдение требований ОСАГО</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>8</v_ST>
+                </ts_uch>
+            </ts_info>
+            <uchInfo>
+                <ALCO></ALCO>
+                <k_UCH>Пешеход</k_UCH>
+                <NPDD>Переход через проезжую часть вне пешеходного перехода в зоне его видимости либо при наличии в непосредственной близости подземного (надземного) пешеходного перехода</NPDD>
+                <n_UCH>1</n_UCH>
+                <POL>Женский</POL>
+                <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                <s_SM>Нет (не скрывался)</s_SM>
+                <s_T>Раненый, находящийся (находившийся) на стационарном лечении</s_T>
+                <v_ST></v_ST>
+            </uchInfo>
+        </infoDtp>
+        <KTS>1</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220658366</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>28</rowNum>
+        <time>10:00</time>
+    </tab>
+    <tab>
+        <DTPV>Наезд на велосипедиста</DTPV>
+        <date>29.06.2020</date>
+        <district>Калининский район</district>
+        <EMTP_NUMBER>400050411</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.432601</COORD_L>
+            <COORD_W>60.033816</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Не указано</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house></house>
+            <k_ul>Иные места</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Остановка общественного транспорта</OBJ_DTP>
+            <OBJ_DTP>АЗС</OBJ_DTP>
+            <OBJ_DTP>Крупный торговый объект (являющийся объектом массового тяготения пешеходов и (или) транспорта)</OBJ_DTP>
+            <OBJ_DTP>Автостоянка (отделенная от проезжей части)</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>500</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Тротуар, пешеходная дорожка</sdor>
+            <spog>Ясно</spog>
+            <street></street>
+            <ts_info>
+                <color>Оранжевый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2007</g_v>
+                <m_pov></m_pov>
+                <m_ts>Rio</m_ts>
+                <marka_ts>KIA</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>С-класс (малый средний, компактный) до 4,3 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Несоблюдение очередности проезда перекрестков</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>15</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Синий</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v></g_v>
+                <m_pov></m_pov>
+                <m_ts></m_ts>
+                <marka_ts></marka_ts>
+                <n_ts>2</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul></r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Велосипеды</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Велосипедист</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Женский</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST>99</v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>2</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220660463</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>29</rowNum>
+        <time>10:20</time>
+    </tab>
+    <tab>
+        <DTPV>Столкновение</DTPV>
+        <date>29.06.2020</date>
+        <district>Выборгский район</district>
+        <EMTP_NUMBER>400050448</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.318618</COORD_L>
+            <COORD_W>60.026098</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>98</house>
+            <k_ul>Магистральные улицы районного значения</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Остановка общественного транспорта</OBJ_DTP>
+            <OBJ_DTP>Административные здания</OBJ_DTP>
+            <OBJ_DTP>Нерегулируемый перекрёсток</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>070</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Перегон (нет объектов на месте ДТП)</sdor>
+            <spog>Ясно</spog>
+            <street>пр-кт Энгельса</street>
+            <ts_info>
+                <color>Коричневый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2016</g_v>
+                <m_pov></m_pov>
+                <m_ts>А3</m_ts>
+                <marka_ts>AUDI</marka_ts>
+                <n_ts>4</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>4</n_UCH>
+                    <POL>Женский</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Несоблюдение требований ОСАГО</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST>27</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color></color>
+                <f_sob></f_sob>
+                <g_v></g_v>
+                <m_pov></m_pov>
+                <m_ts></m_ts>
+                <marka_ts></marka_ts>
+                <n_ts>5</n_ts>
+                <o_pf></o_pf>
+                <r_rul></r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Скрылось с места ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Неправильный выбор дистанции</NPDD>
+                    <n_UCH>5</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Оставление места ДТП</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Скрылся, впоследствии разыскан (установлен)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>1</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Черный</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2016</g_v>
+                <m_pov></m_pov>
+                <m_ts>C-класс</m_ts>
+                <marka_ts>MERCEDES</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С задним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>12</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Иные цвета</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2007</g_v>
+                <m_pov></m_pov>
+                <m_ts>Прочие марки и модели ТС</m_ts>
+                <marka_ts>Прочие марки ТС</marka_ts>
+                <n_ts>2</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С задним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>9</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Серый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>1999</g_v>
+                <m_pov></m_pov>
+                <m_ts>Ппочие модели Proton</m_ts>
+                <marka_ts>PROTON</marka_ts>
+                <n_ts>3</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Неправильный выбор дистанции</NPDD>
+                    <n_UCH>3</n_UCH>
+                    <POL>Не определен</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Оставление места ДТП</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Скрылся и впоследствии не установлен</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST></v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>5</KTS>
+        <KUCH>5</KUCH>
+        <kartId>220758795</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>30</rowNum>
+        <time>12:00</time>
+    </tab>
+    <tab>
+        <DTPV>Наезд на стоящее ТС</DTPV>
+        <date>29.06.2020</date>
+        <district>Красногвардейский район</district>
+        <EMTP_NUMBER>400050378</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.472662</COORD_L>
+            <COORD_W>59.950444</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>31</house>
+            <k_ul>Улицы и дороги местного значения в жилой застройке</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Остановка общественного транспорта</OBJ_DTP>
+            <OBJ_DTP>Крупный торговый объект (являющийся объектом массового тяготения пешеходов и (или) транспорта)</OBJ_DTP>
+            <OBJ_DTP>Регулируемый пешеходный переход</OBJ_DTP>
+            <OBJ_DTP>Регулируемый перекрёсток</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>920</s_dtp>
+            <s_pch>Мокрое</s_pch>
+            <sdor>Перегон (нет объектов на месте ДТП)</sdor>
+            <spog>Ясно</spog>
+            <street>пр-кт Индустриальный</street>
+            <ts_info>
+                <color>Белый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2019</g_v>
+                <m_pov></m_pov>
+                <m_ts>Solaris</m_ts>
+                <marka_ts>HYUNDAI</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Пассажир</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>4</n_UCH>
+                    <POL>Женский</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST></v_ST>
+                </ts_uch>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>30</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Серый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2010</g_v>
+                <m_pov></m_pov>
+                <m_ts>Nexia</m_ts>
+                <marka_ts>DAEWOO</marka_ts>
+                <n_ts>2</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>10</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Белый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2019</g_v>
+                <m_pov></m_pov>
+                <m_ts>Polo</m_ts>
+                <marka_ts>VOLKSWAGEN</marka_ts>
+                <n_ts>3</n_ts>
+                <o_pf>Юридические лица, являющиеся коммерческими организациями</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Пассажир</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>5</n_UCH>
+                    <POL>Женский</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST></v_ST>
+                </ts_uch>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Неправильный выбор дистанции</NPDD>
+                    <n_UCH>3</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>12</v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>3</KTS>
+        <KUCH>5</KUCH>
+        <kartId>220663061</kartId>
+        <POG>0</POG>
+        <RAN>2</RAN>
+        <rowNum>31</rowNum>
+        <time>01:45</time>
+    </tab>
+    <tab>
+        <DTPV>Столкновение</DTPV>
+        <date>29.06.2020</date>
+        <district>Центральный район</district>
+        <EMTP_NUMBER>400050376</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Режим движения не изменялся</CHOM>
+            <COORD_L>30.356094</COORD_L>
+            <COORD_W>59.923254</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>62</house>
+            <k_ul>Магистральные улицы общегородского значения</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Отсутствие пешеходных ограждений в необходимых местах</ndu>
+            <OBJ_DTP>Школа либо иная детская (в т.ч. дошкольная) организация</OBJ_DTP>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>В темное время суток, освещение включено</osv>
+            <s_dtp>070</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Регулируемый пешеходный переход, расположенный на участке улицы или дороги, проходящей вдоль территории школы или иной детской организации</sdor>
+            <spog>Ясно</spog>
+            <street>пр-кт Лиговский</street>
+            <ts_info>
+                <color>Серый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2014</g_v>
+                <m_pov></m_pov>
+                <m_ts>Прочие модели ВАЗ</m_ts>
+                <marka_ts>ВАЗ</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>С-класс (малый средний, компактный) до 4,3 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST>16</v_ST>
+                </ts_uch>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Пассажир</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Женский</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST></v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Черный</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2008</g_v>
+                <m_pov></m_pov>
+                <m_ts>Прочие модели BMW</m_ts>
+                <marka_ts>BMW</marka_ts>
+                <n_ts>2</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>Полноприводные</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>С-класс (малый средний, компактный) до 4,3 м</t_ts>
+                <ts_s>Скрылось с места ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Неправильный выбор дистанции</NPDD>
+                    <n_UCH>3</n_UCH>
+                    <POL>Не определен</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Оставление места ДТП</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Скрылся и впоследствии не установлен</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST></v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>2</KTS>
+        <KUCH>3</KUCH>
+        <kartId>220660804</kartId>
+        <POG>0</POG>
+        <RAN>2</RAN>
+        <rowNum>32</rowNum>
+        <time>01:30</time>
+    </tab>
+    <tab>
+        <DTPV>Наезд на пешехода</DTPV>
+        <date>29.06.2020</date>
+        <district>Выборгский район</district>
+        <EMTP_NUMBER>400050486</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.363668</COORD_L>
+            <COORD_W>59.99949</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>9</house>
+            <k_ul>Магистральные улицы районного значения</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Остановка общественного транспорта</OBJ_DTP>
+            <OBJ_DTP>Остановка трамвая</OBJ_DTP>
+            <OBJ_DTP>Школа либо иная детская (в т.ч. дошкольная) организация</OBJ_DTP>
+            <OBJ_DTP>Административные здания</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>740</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Регулируемый пешеходный переход</sdor>
+            <spog>Ясно</spog>
+            <street>пр-кт Тореза</street>
+            <ts_info>
+                <color>Иные цвета</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2012</g_v>
+                <m_pov></m_pov>
+                <m_ts>Ceed</m_ts>
+                <marka_ts>KIA</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>Полноприводные</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нарушение требований сигналов светофора</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>15</v_ST>
+                </ts_uch>
+            </ts_info>
+            <uchInfo>
+                <ALCO></ALCO>
+                <k_UCH>Пешеход</k_UCH>
+                <NPDD>Нет нарушений</NPDD>
+                <n_UCH>2</n_UCH>
+                <POL>Женский</POL>
+                <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                <s_SM>Нет (не скрывался)</s_SM>
+                <s_T>Раненый, находящийся (находившийся) на стационарном лечении</s_T>
+                <v_ST></v_ST>
+            </uchInfo>
+        </infoDtp>
+        <KTS>1</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220658052</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>33</rowNum>
+        <time>15:40</time>
+    </tab>
+    <tab>
+        <DTPV>Наезд на велосипедиста</DTPV>
+        <date>29.06.2020</date>
+        <district>Невский район</district>
+        <EMTP_NUMBER>400050467</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.434307</COORD_L>
+            <COORD_W>59.872554</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>25</house>
+            <k_ul>Магистральные улицы общегородского значения</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>740</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Нерегулируемый пешеходный переход</sdor>
+            <spog>Ясно</spog>
+            <street>ул Ивановская</street>
+            <ts_info>
+                <color>Иные цвета</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2002</g_v>
+                <m_pov></m_pov>
+                <m_ts>ГАЗ 3110, 3110-101, 3110-111, 3110-311, 3110-331, 3110-341, 3110-411, 3110-441, 3110-600</m_ts>
+                <marka_ts>ГАЗ</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С задним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>55</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Синий</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v></g_v>
+                <m_pov></m_pov>
+                <m_ts></m_ts>
+                <marka_ts></marka_ts>
+                <n_ts>2</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>Иное расположение рулевого управления</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Велосипеды</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Велосипедист</k_UCH>
+                    <NPDD>Пересечение велосипедистом проезжей части по пешеходному переходу</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST>99</v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>2</KTS>
+        <KUCH>2</KUCH>
+        <kartId>220657622</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>34</rowNum>
+        <time>12:00</time>
+    </tab>
+    <tab>
+        <DTPV>Опрокидывание</DTPV>
+        <date>29.06.2020</date>
+        <district>Курортный район</district>
+        <EMTP_NUMBER>400050525</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>29.969587</COORD_L>
+            <COORD_W>60.152378</COORD_W>
+            <dor>Зеленогорское шоссе</dor>
+            <dor_k>2</dor_k>
+            <dor_z>Региональная или межмуниципальная (дорога регионального или межмуниципального значения)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house></house>
+            <k_ul>Вне НП</k_ul>
+            <km>2</km>
+            <m>150</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Отсутствие в непосредственной близости объектов УДС и объектов притяжения</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>990</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Перегон (нет объектов на месте ДТП)</sdor>
+            <spog>Ясно</spog>
+            <street></street>
+            <ts_info>
+                <color>Оранжевый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2006</g_v>
+                <m_pov></m_pov>
+                <m_ts>Прочие модели КАМАЗ</m_ts>
+                <marka_ts>КАМАЗ</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>Полноприводные</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Самосвалы</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Другие нарушения ПДД водителем</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST>12</v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>1</KTS>
+        <KUCH>1</KUCH>
+        <kartId>220657310</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>35</rowNum>
+        <time>16:40</time>
+    </tab>
+    <tab>
+        <DTPV>Столкновение</DTPV>
+        <date>29.06.2020</date>
+        <district>Московский район</district>
+        <EMTP_NUMBER>400050443</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Движение частично перекрыто</CHOM>
+            <COORD_L>30.338219</COORD_L>
+            <COORD_W>59.881503</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>Люботинский пр.</house>
+            <k_ul>Магистральные улицы районного значения</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Отсутствие, плохая различимость горизонтальной разметки проезжей части</ndu>
+            <ndu>Отсутствие дорожных знаков в необходимых местах</ndu>
+            <ndu>Отсутствие пешеходных ограждений в необходимых местах</ndu>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>500</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Нерегулируемый перекрёсток равнозначных улиц (дорог)</sdor>
+            <spog>Ясно</spog>
+            <street>ул Рощинская</street>
+            <ts_info>
+                <color>Черный</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2010</g_v>
+                <m_pov></m_pov>
+                <m_ts>Прочие модели Ford</m_ts>
+                <marka_ts>FORD</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>Прочие легковые автомобили</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>4</n_UCH>
+                    <POL>Женский</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>9</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Синий</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2008</g_v>
+                <m_pov></m_pov>
+                <m_ts>Focus</m_ts>
+                <marka_ts>FORD</marka_ts>
+                <n_ts>2</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Пассажир</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST></v_ST>
+                </ts_uch>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>3</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>1</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Иные цвета</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2013</g_v>
+                <m_pov></m_pov>
+                <m_ts>Прочие модели Volvo</m_ts>
+                <marka_ts>VOLVO</marka_ts>
+                <n_ts>3</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>Полноприводные</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>В-класс (малый) до 3,9 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Несоблюдение очередности проезда перекрестков</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>9</v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>3</KTS>
+        <KUCH>4</KUCH>
+        <kartId>220654619</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>36</rowNum>
+        <time>13:10</time>
+    </tab>
+    <tab>
+        <DTPV>Столкновение</DTPV>
+        <date>29.06.2020</date>
+        <district>Адмиралтейский район</district>
+        <EMTP_NUMBER>400050414</EMTP_NUMBER>
+        <infoDtp>
+            <CHOM>Режим движения не изменялся</CHOM>
+            <COORD_L>30.308822</COORD_L>
+            <COORD_W>59.923001</COORD_W>
+            <dor></dor>
+            <dor_k></dor_k>
+            <dor_z>Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)</dor_z>
+            <factor>Сведения отсутствуют</factor>
+            <house>54</house>
+            <k_ul>Магистральные улицы районного значения</k_ul>
+            <km>0</km>
+            <m>0</m>
+            <NP>г Санкт-Петербург</NP>
+            <ndu>Не установлены</ndu>
+            <OBJ_DTP>Многоквартирные жилые дома</OBJ_DTP>
+            <osv>Светлое время суток</osv>
+            <s_dtp>070</s_dtp>
+            <s_pch>Сухое</s_pch>
+            <sdor>Перегон (нет объектов на месте ДТП)</sdor>
+            <spog>Ясно</spog>
+            <street>ул Садовая</street>
+            <ts_info>
+                <color>Коричневый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2016</g_v>
+                <m_pov></m_pov>
+                <m_ts>Octavia</m_ts>
+                <marka_ts>SKODA</marka_ts>
+                <n_ts>1</n_ts>
+                <o_pf>Прочие некоммерческие организации</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>D-класс (средний) до 4,6 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>1</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>8</v_ST>
+                </ts_uch>
+            </ts_info>
+            <ts_info>
+                <color>Оранжевый</color>
+                <f_sob>Частная собственность</f_sob>
+                <g_v>2018</g_v>
+                <m_pov></m_pov>
+                <m_ts>Rio</m_ts>
+                <marka_ts>KIA</marka_ts>
+                <n_ts>2</n_ts>
+                <o_pf>Физические лица</o_pf>
+                <r_rul>С передним приводом</r_rul>
+                <t_n>Технические неисправности отсутствуют</t_n>
+                <t_ts>С-класс (малый средний, компактный) до 4,3 м</t_ts>
+                <ts_s>Осталось на месте ДТП</ts_s>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Водитель</k_UCH>
+                    <NPDD>Неправильный выбор дистанции</NPDD>
+                    <n_UCH>2</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Не пострадал</s_T>
+                    <v_ST>14</v_ST>
+                </ts_uch>
+                <ts_uch>
+                    <ALCO></ALCO>
+                    <INJURED_CARD_ID></INJURED_CARD_ID>
+                    <k_UCH>Пассажир</k_UCH>
+                    <NPDD>Нет нарушений</NPDD>
+                    <n_UCH>3</n_UCH>
+                    <POL>Мужской</POL>
+                    <SAFETY_BELT>Нет</SAFETY_BELT>
+                    <SOP_NPDD>Нет нарушений</SOP_NPDD>
+                    <s_SEAT_GROUP></s_SEAT_GROUP>
+                    <s_SM>Нет (не скрывался)</s_SM>
+                    <s_T>Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)</s_T>
+                    <v_ST></v_ST>
+                </ts_uch>
+            </ts_info>
+        </infoDtp>
+        <KTS>2</KTS>
+        <KUCH>3</KUCH>
+        <kartId>220683314</kartId>
+        <POG>0</POG>
+        <RAN>1</RAN>
+        <rowNum>37</rowNum>
+        <time>09:25</time>
+    </tab>
+</dtpCardList>
